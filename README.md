@@ -38,7 +38,8 @@
 
     Given an array of integers nums, calculate the pivot index of this array.
     The pivot index is the index where the sum of all the numbers strictly to the left of the index is equal to the sum of all the numbers strictly to the index's right.
-    If the index is on the left edge of the array, then the left sum is 0 because there are no elements to the left. This also applies to the right edge of the array.
+    If the index is on the left edge of the array, then the left sum is 0 because there are no elements to the left.
+    This also applies to the right edge of the array.
     Return the leftmost pivot index. If no such index exists, return -1.
   
 6)Running Sum of 1d Array
@@ -82,7 +83,10 @@
     M             1000
     For example, 2 is written as II in Roman numeral, just two one's added together. 12 is written as XII, which is simply X + II. The number 27 is written as XXVII, which is XX + V + II.
 
-    Roman numerals are usually written largest to smallest from left to right. However, the numeral for four is not IIII. Instead, the number four is written as IV. Because the one is before the five we subtract it making four. The same principle applies to the number nine, which is written as IX. There are six instances where subtraction is used:
+    Roman numerals are usually written largest to smallest from left to right.
+    However, the numeral for four is not IIII. Instead, the number four is written as IV.
+    Because the one is before the five we subtract it making four. The same principle applies to the number nine, which is written as IX.
+    There are six instances where subtraction is used:
 
     I can be placed before V (5) and X (10) to make 4 and 9. 
     X can be placed before L (50) and C (100) to make 40 and 90. 
@@ -99,5 +103,35 @@
 
     https://leetcode.com/problems/power-of-three/
     
-    Given an integer n, return true if it is a power of three. Otherwise, return false.
+    Given an integer n, return true if it is a power of three.
+    Otherwise, return false.
     An integer n is a power of three, if there exists an integer x such that n == 3x.
+    
+12)Roman to Integer
+    
+    https://leetcode.com/problems/roman-to-integer/
+    
+    Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
+
+    Symbol       Value
+    I             1
+    V             5
+    X             10
+    L             50
+    C             100
+    D             500
+    M             1000
+    For example, 2 is written as II in Roman numeral, just two ones added together. 12 is written as XII, which is simply X + II. 
+    The number 27 is written as XXVII, which is XX + V + II.
+
+    Roman numerals are usually written largest to smallest from left to right. 
+    However, the numeral for four is not IIII. Instead, the number four is written as IV. 
+    Because the one is before the five we subtract it making four. The same principle applies to the number nine,
+    which is written as IX. There are six instances where subtraction is used:
+
+    I can be placed before V (5) and X (10) to make 4 and 9. 
+    X can be placed before L (50) and C (100) to make 40 and 90. 
+    C can be placed before D (500) and M (1000) to make 400 and 900.
+    Given a roman numeral, convert it to an integer.
+
+ 
