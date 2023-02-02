@@ -1,4 +1,6 @@
 # LeetCode
+Description of the solved problems and links to them
+
 1)Isomorphic Strings
 
     https://leetcode.com/problems/isomorphic-strings/description/
