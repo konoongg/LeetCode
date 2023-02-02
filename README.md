@@ -88,3 +88,9 @@
     X can be placed before L (50) and C (100) to make 40 and 90. 
     C can be placed before D (500) and M (1000) to make 400 and 900.
     Given an integer, convert it to a roman numeral.
+    
+10)Palindrome Number
+    
+    https://leetcode.com/problems/palindrome-number/
+    
+    Given an integer x, return true if x is a palindrome, and false otherwise.
