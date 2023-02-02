@@ -137,4 +137,10 @@ Description of the solved problems and links to them
     C can be placed before D (500) and M (1000) to make 400 and 900.
     Given a roman numeral, convert it to an integer.
 
- 
+13)Binary Search
+    
+    https://leetcode.com/problems/binary-search/description/
+    
+    Given an array of integers nums which is sorted in ascending order, and an integer target, write a function to search target in nums.
+    If target exists, then return its index. Otherwise, return -1.
+    You must write an algorithm with O(log n) runtime complexity.
