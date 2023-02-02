@@ -25,3 +25,20 @@
   Given a sequence of words written in the alien language, and the order of the alphabet,
   return true if and only if the given words are sorted lexicographically in this alien language.
   
+4)Contains Duplicate
+
+  https://leetcode.com/problems/contains-duplicate/description/
+  
+  Given an integer array nums, return true if any value appears at least twice in the array,
+  and return false if every element is distinct.
+  
+5)Find Pivot Index
+
+  https://leetcode.com/problems/find-pivot-index/description/
+  
+  Given an array of integers nums, calculate the pivot index of this array.
+  The pivot index is the index where the sum of all the numbers strictly to the left of the index is equal to the sum of all the numbers strictly to the index's right.
+  If the index is on the left edge of the array, then the left sum is 0 because there are no elements to the left. This also applies to the right edge of the array.
+  Return the leftmost pivot index. If no such index exists, return -1.
+  
+  
