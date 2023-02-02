@@ -144,3 +144,10 @@ Description of the solved problems and links to them
     Given an array of integers nums which is sorted in ascending order, and an integer target, write a function to search target in nums.
     If target exists, then return its index. Otherwise, return -1.
     You must write an algorithm with O(log n) runtime complexity.
+14)Valid Anagram
+
+    https://leetcode.com/problems/valid-anagram/description/
+    
+    Given two strings s and t, return true if t is an anagram of s, and false otherwise.
+    An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase,
+    typically using all the original letters exactly once.
