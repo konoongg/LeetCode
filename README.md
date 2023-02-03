@@ -182,3 +182,11 @@ Description of the solved problems and links to them
     Return k after placing the final result in the first k slots of nums.
     Do not allocate extra space for another array.
     You must do this by modifying the input array in-place with O(1) extra memory.
+    
+17)Search Insert Position
+    
+    https://leetcode.com/problems/search-insert-position/description/
+    
+    Given a sorted array of distinct integers and a target value, return the index if the target is found.
+    If not, return the index where it would be if it were inserted in order.
+    You must write an algorithm with O(log n) runtime complexity.
