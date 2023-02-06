@@ -197,3 +197,10 @@ Description of the solved problems and links to them
     
     Given the array nums consisting of 2n elements in the form [x1,x2,...,xn,y1,y2,...,yn].
     Return the array in the form [x1,y1,x2,y2,...,xn,yn].
+  
+19)Reverse String
+
+    https://leetcode.com/problems/reverse-string/description/?envType=study-plan&id=algorithm-i
+    
+    Write a function that reverses a string. The input string is given as an array of characters s.
+    You must do this by modifying the input array in-place with O(1) extra memory.
