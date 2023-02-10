@@ -226,4 +226,8 @@ Description of the solved problems and links to them
     Given two strings s and goal, return true if and only if s can become goal after some number of shifts on s.
     A shift on s consists of moving the leftmost character of s to the rightmost position.
     For example, if s = "abcde", then it will be "bcdea" after one shift.
-
+    
+22)Rotate Array
+    https://leetcode.com/problems/rotate-array/description/
+    
+    Given an integer array nums, rotate the array to the right by k steps, where k is non-negative.
