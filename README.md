@@ -231,3 +231,10 @@ Description of the solved problems and links to them
     https://leetcode.com/problems/rotate-array/description/
     
     Given an integer array nums, rotate the array to the right by k steps, where k is non-negative.
+   
+23)Longest Common Prefix
+    
+    https://leetcode.com/problems/longest-common-prefix/description/
+    
+    Write a function to find the longest common prefix string amongst an array of strings.
+    If there is no common prefix, return an empty string "".
