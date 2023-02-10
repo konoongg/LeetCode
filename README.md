@@ -218,4 +218,12 @@ Description of the solved problems and links to them
     You are given an API bool isBadVersion(version) which returns whether version is bad.
     Implement a function to find the first bad version.
     You should minimize the number of calls to the API.
+    
+21)Rotate String
+
+    https://leetcode.com/problems/rotate-string/description/
+    
+    Given two strings s and goal, return true if and only if s can become goal after some number of shifts on s.
+    A shift on s consists of moving the leftmost character of s to the rightmost position.
+    For example, if s = "abcde", then it will be "bcdea" after one shift.
 
