@@ -245,4 +245,10 @@ Description of the solved problems and links to them
     
     Given a string containing digits from 2-9 inclusive, return all possible letter combinations that the number could represent. Return the answer in any order.
     A mapping of digits to letters (just like on the telephone buttons) is given below. Note that 1 does not map to any letters.
+ 
+25)Reverse Integer
 
+    https://leetcode.com/problems/reverse-integer/description/
+    
+    Given a signed 32-bit integer x, return x with its digits reversed.
+    If reversing x causes the value to go outside the signed 32-bit integer range [-2**31, 2**31 - 1], then return 0.
