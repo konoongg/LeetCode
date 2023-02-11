@@ -238,3 +238,11 @@ Description of the solved problems and links to them
     
     Write a function to find the longest common prefix string amongst an array of strings.
     If there is no common prefix, return an empty string "".
+ 
+24)Letter Combinations of a Phone Number
+    
+    https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/
+    
+    Given a string containing digits from 2-9 inclusive, return all possible letter combinations that the number could represent. Return the answer in any order.
+    A mapping of digits to letters (just like on the telephone buttons) is given below. Note that 1 does not map to any letters.
+
